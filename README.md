@@ -7,7 +7,7 @@
 - 🎓 I study at the Faculty of Computers and Artificial Intelligence, Beni Suef University, majoring in **Computer Science**.
 - 📚 I am currently learning **Flutter** to enhance my mobile development skills.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [eng.abdelazim3@gmail.com](mailto:eng.abdelazim3@gmail.com)
+- 📫 How to reach me [eng.abdelazim3@gmail.com](mailto:eng.abdelazim3@gmail.com)
 
 ## 🏆 Certifications and Achievements
 - Studied at [**Gammal Tech**](https://www.gammal.tech/) and received certificates in:
