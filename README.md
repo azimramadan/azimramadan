@@ -13,6 +13,7 @@
 - Studied at [**Gammal Tech**](https://www.gammal.tech/) and received certificates in:
   - C
   - C++
+  - OOP
   - Data Structures
   - Algorithms
   - UI/UX
