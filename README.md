@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdelazim Ramadan</h1>
-<h3 align="center">A Flutter Developer with a Passion for AI and Design</h3>
+<h2 align="center">A Flutter Developer with a Passion for AI and Design</h2>
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=azimramadan&label=🔥+Profile+Views&color=ff4500&style=for-the-badge" alt="Profile views" />
@@ -65,9 +65,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.abdelazim@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+Always+learning,+always+building.;Made+with+❤️+by+Abdelazim+Ramadan&repeat=false" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+Always+learning,+always+building.;Made+with+❤️+by+Abdelazim+Ramadan" />
 
 
----
