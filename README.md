@@ -15,16 +15,37 @@
   </a>
 </p>
 
-
+ <img align="right" alt="coding-gif" width="400" src="https://github.com/azimramadan/azimramadan/blob/main/transparent_gitgif.gif?raw=true" />
 
 ## 🙋‍♂️ About Me
-- 📱 I build sleek, high-performance mobile applications with a passion for design and user experience.
-- 🎨 I design user interfaces (UI) using **Figma**.
-- 🎓 I study at the Faculty of Computers and Artificial Intelligence, Beni Suef University, majoring in **Computer Science**.
-- 📚 I am currently learning **Flutter** to enhance my mobile development skills.
+- 💡 I build mobile experiences, not just apps.
+- 🎨 Designing the vision in **Figma**. Engineering the reality in **Flutter**.
+- 🎓 **Computer Science** Graduate | Beni Suef University.
 - 🤖 Exploring AI and Machine Learning as part of my journey.
-- 💬 Ask me about anything.
-- 📫 How to reach me [eng.abdelazim3@gmail.com](mailto:eng.abdelazim3@gmail.com)
+- 📈 Ready to deliver high-impact solutions.
+
+<h3 align="left">🧲 Let’s Connect:</h3>
+
+<div align="left" >
+  &nbsp;
+  <a href="mailto:eng.abdelazim3@gmail.com">
+    <img width="35px" src="https://github.com/azimramadan/azimramadan/blob/main/gmail_new_logo.png?raw=true" alt="Gmail" />
+  </a>
+
+  <a href="https://wtsi.me/201206263723" target="_blank">
+    <img width="36px" src="https://github.com/azimramadan/azimramadan/blob/main/vecteezy_whatsapp-png.png?raw=true" alt="WhatsApp" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/azimramadan" target="_blank">
+    <img width="35px" src="https://github.com/azimramadan/azimramadan/blob/main/linkedin-blue.png?raw=true" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.facebook.com/azim3ramadan" target="_blank">
+    <img width="35px" src="https://github.com/azimramadan/azimramadan/blob/main/Facebook_Logo.png?raw=true" alt="Facebook" />
+  </a>
+</div>
+</div>
+
 ---
 ## 🛠️ Languages and Tools
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -58,13 +79,15 @@
 ## ✍️ Dev Quote
 > "First, solve the problem. Then, write the code."
 ----
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azimramadan/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19QZRVd1ZK/?mibextid=qi2Omg)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.abdelazim@gmail.com)
 
----
+<!-- Ending -->
+<img src="https://github.com/azimramadan/azimramadan/blob/main/green.gif?raw=true" alt="Wall-E GIF" style="width:auto; height:auto" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+Always+learning,+always+building.;Made+with+❤️+by+Abdelazim+Ramadan" />
 
 
