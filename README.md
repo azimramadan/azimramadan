@@ -32,7 +32,7 @@
     <img width="35px" src="https://github.com/azimramadan/azimramadan/blob/main/gmail_new_logo.png?raw=true" alt="Gmail" />
   </a>
 
-  <a href="https://wtsi.me/201206263723" target="_blank">
+  <a href="https://wa.me/201206263723">
     <img width="36px" src="https://github.com/azimramadan/azimramadan/blob/main/vecteezy_whatsapp-png.png?raw=true" alt="WhatsApp" />
   </a>
 
